@@ -1,2 +1,2 @@
 # HappyTerroir
-Environn
+Répertoire de toutes les aplications shopify.
